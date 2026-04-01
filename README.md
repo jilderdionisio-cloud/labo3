@@ -1,14 +1,14 @@
 # Jilder Alex Dionisio Rojas 
 # Creacion de repositorio 
-![Creacion de repositorio](doc/1.png)
+![Creacion de repositorio](docs/1.png)
 
 # captura 2 
-![Archivo venv](doc/2.png)
+![Archivo venv](docs/2.png)
 # captura 3
-![Config](doc/3.png)
+![Config](docs/3.png)
 # Captura 4 y 5
-![Proyecto iniciado](doc/4.png)
-![Proyecto inicado](doc/5.png)
+![Proyecto iniciado](docs/4.png)
+![Proyecto inicado](docs/5.png)
 
 # captura 6
-![Proyecto inicado](doc/6.png)
+![Proyecto inicado](docs/6.png)
